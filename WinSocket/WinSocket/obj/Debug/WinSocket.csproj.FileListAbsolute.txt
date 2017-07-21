@@ -1,0 +1,9 @@
+D:\me\pro\WinSocket\WinSocket\bin\Debug\WinSocket.exe.config
+D:\me\pro\WinSocket\WinSocket\bin\Debug\WinSocket.exe
+D:\me\pro\WinSocket\WinSocket\bin\Debug\WinSocket.pdb
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.csprojResolveAssemblyReference.cache
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.Form1.resources
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.Properties.Resources.resources
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.csproj.GenerateResource.Cache
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.exe
+D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.pdb
