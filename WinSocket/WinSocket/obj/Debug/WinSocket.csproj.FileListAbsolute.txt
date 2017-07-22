@@ -7,3 +7,6 @@ D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.Properties.Resources.resources
 D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.csproj.GenerateResource.Cache
 D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.exe
 D:\me\pro\WinSocket\WinSocket\obj\Debug\WinSocket.pdb
+D:\Users\test\WinSocket\WinSocket\bin\Debug\WinSocket.exe.config
+D:\Users\test\WinSocket\WinSocket\obj\Debug\WinSocket.exe
+D:\Users\test\WinSocket\WinSocket\obj\Debug\WinSocket.pdb
