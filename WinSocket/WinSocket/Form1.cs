@@ -20,6 +20,7 @@ namespace WinSocket
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("it's my fitst time to push my code");
+            // Write onLine;
         }
     }
 }
